@@ -11,14 +11,14 @@
 
 ## 🚀 What's New - iOS Support!
 
-xdBot now officially supports iOS devices! Experience the full power of xdBot automation on your iPhone and iPad.
+xdBot now supports iOS devices! Experience the full power of xdBot automation on your iPhone and iPad.
 
 ### ✨ iOS Features
 - **Touch Controls**: Optimized touch-based interface for iOS devices
 - **Gesture Sensitivity**: Adjustable sensitivity for precise control
 - **ARM64 Architecture**: Native support for modern iOS devices
 - **iOS 14.0+**: Compatible with iOS 14 and later versions
-- **JIT-less Support**: Works on non-jailbroken devices
+- **JIT Support**: Works on non-jailbroken devices
 
 ## 🎮 Features
 
@@ -43,11 +43,9 @@ xdBot now officially supports iOS devices! Experience the full power of xdBot au
 
 ## 📱 Platform Support
 
-| Platform | Status | Architecture |
-|----------|--------|--------------|
-| **iOS** | ✅ **NEW!** | ARM64 |
-| Windows | ✅ Supported | x86_64 |
-| Android | ✅ Supported | ARM64/x86_64 |
+| Platform |     Status      | Architecture |
+|----------|-----------------|--------------|
+|  **iOS** | ✅ **Building** | ARM64 |
 
 ## 🛠️ Installation
 
