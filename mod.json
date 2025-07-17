@@ -6,10 +6,10 @@
         "ios": "2.2074"
     },
     "version": "2.4.1",
-    "id": "zilko.xdbot",
-    "name": "xdBot",
-    "developer": "Zilko",
-    "description": "Best Free Bot fr",
+    "id": "tsuki.lmaobot",
+    "name": "LmaoBot",
+    "developer": "t5uk1",
+    "description": "xdBot but supports iOS",
     "dependencies": [
         {
             "id": "geode.custom-keybinds",
