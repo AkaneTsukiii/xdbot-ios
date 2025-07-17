@@ -94,7 +94,7 @@ LmaoBot (a.k.a xdBot) now supports iOS devices! Experience the full power of xdB
 ## 📊 Release
 
 ### v1.0.0 - First Release
-- ✅ Added iOS platform support
+- ‼️ iOS platform support only
 - ✅ Implemented touch controls interface
 - ✅ Added gesture sensitivity settings
 - ✅ Optimized for ARM64 architecture
