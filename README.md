@@ -1,4 +1,4 @@
-# xdBot - iOS Support Edition
+# LmaoBot - iOS Support Edition
 
 <p align="center">
   <img src="logo.png" alt="xdBot Logo" width="200"/>
@@ -11,7 +11,7 @@
 
 ## 🚀 What's New - iOS Support!
 
-xdBot now supports iOS devices! Experience the full power of xdBot automation on your iPhone and iPad.
+LmaoBot (a.k.a xdBot) now supports iOS devices! Experience the full power of xdBot automation on your iPhone and iPad.
 
 ### ✨ iOS Features
 - **Touch Controls**: Optimized touch-based interface for iOS devices
@@ -52,7 +52,7 @@ xdBot now supports iOS devices! Experience the full power of xdBot automation on
 ### iOS Installation
 
 1. **Install Geode Launcher** on your iOS device
-2. **Download** the latest `xdBot.geode` file from [Releases](https://github.com/AkaneTsukiii/xdbot-ios/releases)
+2. **Download** the latest `LmaoBot.geode` file from [Releases](https://github.com/AkaneTsukiii/xdbot-ios/releases)
 3. **Transfer** the file to your device via:
    - Web Server (recommended): `http://[device-ip]:8080`
    - iTunes/Finder file sharing
@@ -70,27 +70,6 @@ xdBot now supports iOS devices! Experience the full power of xdBot automation on
 - **Frame Offset**: Fine-tune macro timing (-8 to +8 frames)
 - **Auto Settings**: Auto-stop playing, auto-disable speedhack
 - **File Paths**: Customize macro, autosave, and render locations
-
-## 🎯 Usage
-
-### Recording Macros
-1. Open the xdBot menu in-game
-2. Click "Record" to start recording
-3. Play through your level
-4. Stop recording when finished
-5. Save your macro for later use
-
-### Playing Macros
-1. Load a previously recorded macro
-2. Select your preferred accuracy mode
-3. Click "Play" to execute the macro
-4. Watch as xdBot replicates your gameplay
-
-### iOS Touch Controls
-- **Tap**: Primary interaction
-- **Long Press**: Secondary actions
-- **Swipe**: Navigate menus
-- **Pinch**: Zoom (where applicable)
 
 ## 🔒 Security & Compatibility
 
