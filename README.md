@@ -112,11 +112,6 @@ xdBot now supports iOS devices! Experience the full power of xdBot automation on
 - **Touch Controls**: Adjust gesture sensitivity in settings
 - **Performance**: Lower frame fixes limit for older devices
 
-### Support Resources
-- [iOS Installation Guide](README_iOS.md)
-- [Build Troubleshooting](BUILD_MACOS_GUIDE.md#troubleshooting)
-- [Discord Community](https://discord.gg/w6yvdzVzBd)
-
 ## 📊 Changelog
 
 ### v2.4.1 - iOS Support Edition
@@ -139,5 +134,5 @@ xdBot now supports iOS devices! Experience the full power of xdBot automation on
 </p>
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/AkaneTsukiii">Zilko</a> and the iOS community
+  Made with ❤️ by <a href="https://github.com/AkaneTsukiii">AkaneTsukiii</a> and the iOS community
 </p>
