@@ -58,40 +58,6 @@ xdBot now supports iOS devices! Experience the full power of xdBot automation on
    - iTunes/Finder file sharing
 4. **Launch** Geometry Dash and enjoy!
 
-## 🔧 Building from Source
-
-### iOS Build Requirements
-- **macOS** with Xcode installed
-- **Geode SDK** 4.4.0 or higher
-- **iOS SDK** (included with Xcode)
-
-### Quick Build
-```bash
-# Clone the repository
-git clone https://github.com/ZiLko/xdBot.git
-cd xdBot
-
-# Build for iOS
-chmod +x build_macos.sh
-./build_macos.sh
-```
-
-### Manual Build
-```bash
-# Install Geode CLI and SDK
-geode sdk install
-geode sdk install-binaries --platform ios
-
-# Build
-cmake -B build-ios -DCMAKE_SYSTEM_NAME=iOS -DGEODE_TARGET_PLATFORM=iOS
-cmake --build build-ios
-```
-
-For detailed build instructions, see:
-- [macOS Build Guide](BUILD_MACOS_GUIDE.md)
-- [Build Structure](iOS_BUILD_STRUCTURE.md)
-- [Step-by-Step Setup](STEP_BY_STEP_SETUP.md)
-
 ## ⚙️ Configuration
 
 ### iOS-Specific Settings
@@ -161,37 +127,10 @@ For detailed build instructions, see:
 - ✅ iOS 14.0+ compatibility
 - ✅ JIT-less support for non-jailbroken devices
 
-### Previous Versions
-- **v2.4.0**: Removed FFmpeg API dependency, bug fixes
-- **v2.3.x**: Performance improvements, stability fixes
-- **v2.2.x**: Enhanced macro system, UI improvements
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [contribution guidelines](CONTRIBUTING.md) for details.
-
-### Development Setup
-1. Fork the repository
-2. Follow the [build instructions](#building-from-source)
-3. Make your changes
-4. Test on multiple platforms
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Geode SDK Team**: For the amazing modding framework
 - **iOS Community**: For testing and feedback
-- **Contributors**: Everyone who helped make iOS support possible
-
-## 📞 Support
-
-- **Discord**: [Join our community](https://discord.gg/w6yvdzVzBd)
-- **GitHub Issues**: [Report bugs](https://github.com/ZiLko/xdBot/issues)
-- **Documentation**: Check our [guides](FILES_LIST.md)
 
 ---
 
@@ -200,5 +139,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </p>
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/ZiLko">Zilko</a> and the iOS community
+  Made with ❤️ by <a href="https://github.com/AkaneTsukiii">Zilko</a> and the iOS community
 </p>
