@@ -52,15 +52,11 @@ xdBot now supports iOS devices! Experience the full power of xdBot automation on
 ### iOS Installation
 
 1. **Install Geode Launcher** on your iOS device
-2. **Download** the latest `xdBot.geode` file from [Releases](https://github.com/ZiLko/xdBot/releases)
+2. **Download** the latest `xdBot.geode` file from [Releases](https://github.com/AkaneTsukiii/xdbot-ios/releases)
 3. **Transfer** the file to your device via:
    - Web Server (recommended): `http://[device-ip]:8080`
    - iTunes/Finder file sharing
 4. **Launch** Geometry Dash and enjoy!
-
-### Other Platforms
-
-Download the appropriate `.geode` file for your platform from the [Releases](https://github.com/ZiLko/xdBot/releases) page.
 
 ## 🔧 Building from Source
 
