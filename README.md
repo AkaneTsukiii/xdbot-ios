@@ -8,11 +8,6 @@
   <strong>Geometry Dash simple and easy to use botting tool - Now with iOS Support!</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ZiLko/xdBot/releases"><img src="https://img.shields.io/github/v/release/ZiLko/xdBot?style=flat-square" alt="Latest Release"></a>
-  <a href="https://github.com/ZiLko/xdBot/stargazers"><img src="https://img.shields.io/github/stars/ZiLko/xdBot?style=flat-square" alt="GitHub Stars"></a>
-  <a href="https://discord.gg/w6yvdzVzBd"><img src="https://img.shields.io/discord/1234567890?style=flat-square&logo=discord" alt="Discord"></a>
-</p>
 
 ## 🚀 What's New - iOS Support!
 
